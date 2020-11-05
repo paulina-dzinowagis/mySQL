@@ -1,0 +1,1 @@
+ALTER TABLE company_renemed DROP company_id;

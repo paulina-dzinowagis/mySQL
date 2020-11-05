@@ -1,0 +1,1 @@
+INSERT INTO company_renemed VALUES ('1', 'Macbook', '2', '2');

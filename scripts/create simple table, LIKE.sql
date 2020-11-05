@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS movies_2 LIKE movies;

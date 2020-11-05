@@ -1,0 +1,1 @@
+ALTER TABLE company RENAME company_renemed;

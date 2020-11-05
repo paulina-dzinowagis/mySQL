@@ -1,0 +1,2 @@
+ALTER TABLE company_renemed ADD ID VARCHAR (20) FIRST
+;

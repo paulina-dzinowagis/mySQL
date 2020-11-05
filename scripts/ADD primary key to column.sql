@@ -1,0 +1,1 @@
+ALTER TABLE company_renemed add primary key (company_ID);

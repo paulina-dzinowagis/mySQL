@@ -1,0 +1,1 @@
+ALTER TABLE company_renemed MODIFY company_id INT;
