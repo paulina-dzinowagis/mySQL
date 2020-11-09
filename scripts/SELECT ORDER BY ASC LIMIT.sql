@@ -1,0 +1,1 @@
+SELECT Population, Name FROM country WHERE Population IS NOT NULL ORDER BY Population ASC LIMIT 1;

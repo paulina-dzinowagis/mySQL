@@ -1,0 +1,3 @@
+SELECT Name
+FROM city ORDER BY Name ASC
+;

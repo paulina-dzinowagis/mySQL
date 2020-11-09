@@ -1,0 +1,1 @@
+INSERT INTO company SELECT * FROM company_renemed;
