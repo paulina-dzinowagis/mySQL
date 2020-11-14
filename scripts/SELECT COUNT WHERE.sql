@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM city WHERE CountryCode = "CHN";
